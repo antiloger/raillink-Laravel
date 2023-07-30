@@ -1,0 +1,81 @@
+/*train news page head */
+.start-div{
+    
+    /*padding-top: 150px;*/
+    width: 95vw;
+    height: 75vh;
+    background: #727272;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    
+    
+    background-image: url('/pic011.jpg');
+    background-size: cover; /* Adjust the background size as needed */
+    background-position: center center;
+    
+}
+.start-div:hover{
+    width: 95vw;
+    height: 75vh;
+}
+.input_box{
+    margin-top: 50px;
+    width: 100%;
+}
+.input-txt {
+    width: 80%;
+    height: 60px;
+    border-radius: 30px;
+    outline: 2px solid #00cbfe;
+    border: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #E4F3FC;
+    outline-offset: 3px;
+    
+    padding: 10px 1rem;
+    transition: 0.25s;
+  }
+  
+  .input-txt:focus {
+    outline-offset: 5px;
+    background-color: #fff
+  }
+
+  .btn-seh{
+    margin-top: 40px;
+  }
+
+  .button-seh {
+    padding: 1.3em 3em;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #9ae3f5;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .button-seh:hover {
+    background-color: #00cbfe;
+    /*box-shadow: 0px 15px 20px #16748b;*/
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  
+  .button-seh:active {
+    transform: translateY(-1px);
+  }
+
+  .blw-tag{
+    margin-top: 40px;
+    margin-bottom: 50px;
+  }

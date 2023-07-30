@@ -1,0 +1,117 @@
+
+.nsbm-intro{
+    padding: 30px;
+    background-color: #dfffd8;
+}
+.start-div{
+    
+    /*padding-top: 150px;*/
+    width: 95vw;
+    height: 75vh;
+    background: #727272;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 20px;
+    background-size: cover; /* Adjust the background size as needed */
+    background-position: center center;
+
+}
+.paragraph-col{
+   
+    
+    margin-left: 20px;
+}
+#paragraph{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+#developers-topic{
+    color: #6E6E6E;
+    font-size: 64px;
+    font-weight:500 ;
+    text-align: center;
+    margin-top: 73px;
+}
+/*end*/
+
+
+#topic{
+    color: #168500;
+    font-size: 64px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 73px;
+}
+
+
+/* developer information cards*/
+.dev-table{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    padding: 10px;
+}
+      
+/*
+#contact-us-topic{
+    font-size:64px ;
+    font-weight: 500;
+    color: #6E6E6E;
+    text-align: center;
+    margin-bottom: 77px;
+}
+
+.input:hover{
+   border:#727272;
+   border: 3px;
+}
+.email-enter-bar{
+    font-size: 20px;
+   
+    color: black;
+    border-radius: 30px;
+    background-color:#D9D9D9;
+    height: 72px; 
+}
+.subject-enter-bar{
+    
+    font-size: 20px;
+    color: black;
+    border-radius: 30px;
+    background-color:#D9D9D9 ;
+    height: 72px;
+    margin-top: 29px;
+}
+
+
+.textarea:hover{
+    border-color: #727272;
+    border: 3px;  
+ }
+.content-enter-bar{
+    
+    font-size: 20px;
+    color: black;
+    border-radius: 30px;
+    background-color:#D9D9D9 ;
+    height: 320px;
+    margin-bottom: 47px;
+    margin-top: 27px;
+}
+.explore-btn{
+    background-color:#5281C8 ;
+    font-size:20px ;
+    font-weight: 500;
+    color:#D9D9D9 ;
+    width: 168px;
+    height: 49px;
+    border-radius: 40px;
+    margin: auto;
+    margin-bottom: 209px;
+}
+*/
